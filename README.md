@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Yuvraj 👋</h1>
 
-<!--
-**yuvraj-kumar-dev/yuvraj-kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=E5B96B&center=true&vCenter=true&width=435&lines=CS+Student+%7C+AI+%2B+ML+Enthusiast;Frontend+Developer+%7C+Java+%7C+Open+Source+Lover;Learning+Daily+%E2%9C%8C%EF%B8%8F+Creating+Always" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+```yaml
+name: Yuvraj Kumar
+status: 💻 Learning & Building cool stuff
+interests:
+  - 🌱 AI/ML
+  - 💻 Web Dev
+  - 🧠 AI/ML Integration with Backend
+
