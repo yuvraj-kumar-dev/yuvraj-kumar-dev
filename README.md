@@ -11,11 +11,57 @@
 
 ### 🧑‍💻 About Me
 
-```yaml
 name: Yuvraj Kumar
 status: 💻 Learning & Building cool stuff
 interests:
   - 🌱 AI/ML
   - 💻 Web Dev
   - 🧠 AI/ML Integration with Backend
+
+---
+
+### 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,django,flask,python,github,git,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-kumar-dev&show_icons=true&theme=dracula&hide_border=true" alt="Yuvraj's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-kumar-dev&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-kumar-dev&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-kumar-dev&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🧰 Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=yuvraj-kumar-dev&color=blue)
+![Followers](https://img.shields.io/github/followers/yuvraj-kumar-dev?label=Followers&style=social)
+![GitHub User's Stars](https://img.shields.io/github/stars/yuvraj-kumar-dev?style=social)
+
+---
+
 
