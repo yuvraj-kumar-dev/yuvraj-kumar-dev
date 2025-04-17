@@ -11,9 +11,9 @@
 
 ### 🧑‍💻 About Me
 
-name: Yuvraj Kumar
-status: 💻 Learning & Building cool stuff
-interests:
+**Name:** Yuvraj Kumar  
+**Status:** 💻 Learning & Building cool stuff  
+**Interests:**
   - 🌱 AI/ML
   - 💻 Web Dev
   - 🧠 AI/ML Integration with Backend
