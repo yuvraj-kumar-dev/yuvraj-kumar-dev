@@ -24,6 +24,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,django,flask,python,github,git,vscode" />
+  <img height=50 src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png"/>
 </p>
 
 ---
