@@ -29,18 +29,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-kumar-dev&show_icons=true&theme=dracula&hide_border=true" alt="Yuvraj's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-kumar-dev&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
