@@ -20,30 +20,6 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,django,flask,python,github,git,vscode,sklearn" />
-  <img height=48 src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-kumar-dev&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvraj-kumar-dev&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ### 🧰 Badges
 
