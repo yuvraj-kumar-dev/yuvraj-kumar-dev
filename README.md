@@ -1,19 +1,18 @@
 <h1 align="center">Hi there, I'm Yuvraj 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=E5B96B&center=true&vCenter=true&width=700&lines=++Backend+Developer+%7C+Django+%7C+Flask+%7C+MySQL++;++Learning+AI/ML+%7C+Generative+AI++;++Always+Building+%F0%9F%94%A5+Always+Curious+%F0%9F%A4%94++" alt="Typing SVG" />
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=E5B96B&center=true&vCenter=true&width=800&lines=AI+Engineer+(Automation)+%7C+n8n+%7C+LLM+APIs;Building+Real-World+AI+Products+%F0%9F%9A%80;Backend+%2B+AI+Integration;Always+Building+%F0%9F%94%A5+Always+Curious+%F0%9F%A4%94" alt="Typing SVG" /> 
 </p>
 
 ----
 
 ### 🧑‍💻 About Me
 
-**Name:** Yuvraj Kumar  
-**Status:** 💻 Learning & Building cool stuff  
-**Interests:**
-  - 🌱 AI/ML
-  - 💻 Web Dev
-  - 🧠 AI/ML Integration with Backend
+- 🎓 CSE (AI/ML)
+- ⚡ AI Engineer (Automation) Intern
+- 🛠️ Building AI-powered tools using LLM APIs & workflows
+- 🌱 Currently exploring Applied AI, RAG & system design
+- 🚀 Goal: Build scalable AI products & systems
 
 
 ### 🚀 Tech Stack & Tools
