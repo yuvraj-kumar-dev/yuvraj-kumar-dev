@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yuvraj 👋</h1>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=E5B96B&center=true&vCenter=true&width=800&lines=AI+Engineer+(Automation)+%7C+n8n+%7C+LLM+APIs;Building+Real-World+AI+Products+%F0%9F%9A%80;Backend+%2B+AI+Integration;Always+Building+%F0%9F%94%A5+Always+Curious+%F0%9F%A4%94" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=E5B96B&center=true&vCenter=true&width=800&lines=AI+Engineer;Building+Real-World+AI+Systems" alt="Typing SVG" /> 
 </p>
 
 ----
@@ -9,24 +9,24 @@
 ### 🧑‍💻 About Me
 
 - 🎓 CSE (AI/ML)
-- ⚡ AI Engineer (Automation) Intern
-- 🛠️ Building AI-powered tools using LLM APIs & workflows
+- ⚡ AI Engineer Intern
+- 🛠️ Building Real World AI Systems
 - 🌱 Currently exploring Applied AI, RAG & system design
 - 🚀 Goal: Build scalable AI products & systems
 
 
 ### 🚀 Tech Stack & Tools
 
-![img](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![img](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br>
 ![img](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![img](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![img](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) 
 ![img](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) <br>
 ![img](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![img](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![img](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) 
 ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white) \
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) <br>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
